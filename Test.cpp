@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-	// 깃 허브 업로드 테스트
+	// Test
 
 	return 0;
 }
